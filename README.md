@@ -37,12 +37,12 @@ When I'm not working with data, I enjoy playing chess and listening to classical
 
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy Skill Badge">
-  <img src="https://img.shields.io/badge/Dcoker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Skill Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black" alt="Git Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&style=for-the-badge" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&style=for-the-badge" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&style=for-the-badge" alt="Numpy Skill Badge">
+  <img src="https://img.shields.io/badge/Dcoker-2496ED?style=flat&logo=docker&logoColor=white&style=for-the-badge" alt="Docker Skill Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black&style=for-the-badge" alt="Git Skill Badge">
 </p>
