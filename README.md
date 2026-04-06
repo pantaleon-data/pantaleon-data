@@ -17,16 +17,13 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://pantaleon-data.github.io/)
+When I'm not working with data, I enjoy playing chess and listening to classical music. I love the "aha!" moment when data reveals something new and useful.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a customer churn analysis dashboard using Python and Power BI to identify patterns driving customer attrition
+- **Project B:** Conducting a product performance and inventory analysis using SQL to evaluate sales trends and stock movement
+- **Content Creation:** Developing a customer segmentation model in Python to group customers based on behavioural and purchasing patterns.
 
 ## 🌱 Currently Learning 
 
@@ -34,29 +31,18 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 - Data Engineering fundamentals - workflow orchestration, ETL pipelines, and data infrastructure design.
 - Cloud data warehousing with AWS.
 
-## 🛠️ Technical Skillset
+## 🛠️ Technical Stack
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy Skill Badge">
   <img src="https://img.shields.io/badge/Dcoker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Funnel%20Analysis-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Story%20Telling-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black" alt="Git Skill Badge">
 </p>
