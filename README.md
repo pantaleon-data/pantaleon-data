@@ -23,7 +23,6 @@ When I'm not working with data, I enjoy playing chess and listening to classical
 
 - **Project A:** Building a customer churn analysis dashboard using Python and Power BI to identify patterns driving customer attrition
 - **Project B:** Conducting a product performance and inventory analysis using SQL to evaluate sales trends and stock movement
-- **Project C:** Developing a customer segmentation model in Python to group customers based on behavioural and purchasing patterns.
 
 ## 🌱 Currently Learning 
 
