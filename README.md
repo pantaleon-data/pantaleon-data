@@ -1,15 +1,64 @@
-## 💫 About Me:
+# Hi, I'm Pantaleon Akujobi 👋
 
-<div align="center"> <!--  You can customize the typing text in the "lines=" section of the URL below --> <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Aspiring+Data+Engineer" alt="Typing SVG" /> </div>
+Data Analyst passionate about transforming raw data into actionable insights that support business decision-making.
 
-<p align="center">
-<a href="https://linkedin.com/in/pantaleon-akujobi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:dabereakujobi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+## About Me
 
-I'm a data analyst passionate about turning data into actionable insights. I enjoy transforming complex, messy datasets into clear stories that drive business decisions.  I'm currently expanding into data engineering, exploring Docker and cloud data platforms while documenting projects publicly to demonstrate reproducible analytics and scalable data solutions.
+I enjoy solving business problems with data through analysis, visualization, and storytelling. My projects focus on uncovering trends, measuring performance, and translating complex datasets into clear recommendations that stakeholders can act upon.
 
+I work primarily with Excel, SQL, Power BI, Tableau, and PostgreSQL, applying analytical thinking to domains such as e-commerce, healthcare, customer behavior, and marketing performance.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+## Technical Skills
 
+### Data Analysis & Visualization
+- Microsoft Excel
+- Power BI
+- Tableau
+- Dashboard Design
+- KPI Development
+- Data Storytelling
+
+### Databases & Querying
+- SQL
+- PostgreSQL
+
+### Data Preparation
+- Power Query
+- Data Cleaning
+- Data Transformation
+- Data Validation
+
+### Analytics
+- Exploratory Data Analysis (EDA)
+- Business Performance Analysis
+- Customer Analytics
+- Marketing Analytics
+- Trend Analysis
+- Reporting & Insights Generation
+
+## Featured Projects
+
+### E-Commerce Sales Performance Analysis
+Analyzed 3,500+ sales transactions to identify revenue drivers, product performance trends, regional sales patterns, and growth opportunities through an interactive Excel dashboard.
+
+### Email Marketing Campaign Analysis
+Evaluated campaign performance metrics to uncover engagement trends, conversion opportunities, and actionable recommendations for marketing optimization.
+
+### Healthcare Appointment Performance Dashboard
+Analyzed appointment attendance, operational efficiency, demographic trends, and year-over-year performance using Excel, Power Query, and interactive dashboarding techniques.
+
+### Customer Churn Analysis *(In Progress)*
+Using Python and Tableau to investigate churn drivers, customer retention patterns, revenue at risk, and strategic opportunities for reducing customer attrition.
+
+## Currently Learning
+
+- Advanced SQL
+- Python for Analytics
+- Tableau
+- Data Engineering Fundamentals
+- Cloud Data Technologies
+
+## Contact
+
+- [GitHub](https://github.com/pantaleon-data)
+- [LinkedIn](https://linkedin.com/pantaleon-akujobi)
