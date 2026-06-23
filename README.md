@@ -61,4 +61,4 @@ Using Python and Tableau to investigate churn drivers, customer retention patter
 ## Contact
 
 - [GitHub](https://github.com/pantaleon-data)
-- [LinkedIn](https://linkedin.com/in/pantaleon-akujobi)
+- [LinkedIn](https://www.linkedin.com/in/pantaleon-akujobi)
