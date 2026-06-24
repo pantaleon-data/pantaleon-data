@@ -34,22 +34,20 @@
 
 ## Areas of Interest
 
-* Business Intelligence
-* Customer Analytics
+* Business Performance Analytics
+* Customer Segmentation
+* Performance & Operational Analytics
 * Healthcare Analytics
 * KPI Reporting
-* Data Visualization
-* Customer Segmentation
-* Performance Analytics
 
 ---
 
 ## Current Focus
 
-* Building end-to-end analytics projects
-* Strengthening SQL and Python skills
-* Developing business intelligence solutions with Power BI
-* Expanding my analytics portfolio
+* Building analytics solutions with SQL, Power Bi and Python
+* Expanding knwoledge of PostgreSql, Docker and workflow orchestration
+* Developing end-to-end workflows from data extraction to reporting
+* Strengthening foundations in modern data platforms and analytics engineering
 
 ---
 
