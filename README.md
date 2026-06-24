@@ -1,64 +1,61 @@
-# Hi, I'm Pantaleon Akujobi 👋
+<h1 align="center">Hi, I'm Pantaleon Akujobi 👋</h1>
 
-Data Analyst passionate about transforming raw data into actionable insights that support business decision-making.
+<p align="center">
+  <strong>Data Analyst | Business Intelligence | Customer Analytics | SQL • Power BI • Python</strong>
+</p>
+
+<p align="center">
+  I analyze data, build interactive dashboards, and develop reporting solutions that help organizations measure performance and make informed decisions.
+</p>
+
+---
 
 ## About Me
 
-I enjoy solving business problems with data through analysis, visualization, and storytelling. My projects focus on uncovering trends, measuring performance, and translating complex datasets into clear recommendations that stakeholders can act upon.
+* Data Analyst with experience in SQL, Power BI, Python, PostgreSQL, and Excel.
+* Skilled in data cleaning, analysis, visualization, KPI reporting, and business intelligence.
+* Experienced in healthcare, customer, and SaaS analytics projects.
+* Passionate about creating clear, actionable insights from complex datasets.
 
-I work primarily with Excel, SQL, Power BI, Tableau, and PostgreSQL, applying analytical thinking to domains such as e-commerce, healthcare, customer behavior, and marketing performance.
+---
 
-## Technical Skills
+## Tools & Technologies
 
-### Data Analysis & Visualization
-- Microsoft Excel
-- Power BI
-- Tableau
-- Dashboard Design
-- KPI Development
-- Data Storytelling
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### Databases & Querying
-- SQL
-- PostgreSQL
+---
 
-### Data Preparation
-- Power Query
-- Data Cleaning
-- Data Transformation
-- Data Validation
+## Areas of Interest
 
-### Analytics
-- Exploratory Data Analysis (EDA)
-- Business Performance Analysis
-- Customer Analytics
-- Marketing Analytics
-- Trend Analysis
-- Reporting & Insights Generation
+* Business Intelligence
+* Customer Analytics
+* Healthcare Analytics
+* KPI Reporting
+* Data Visualization
+* Customer Segmentation
+* Performance Analytics
 
-## Featured Projects
+---
 
-### E-Commerce Sales Performance Analysis
-Analyzed 3,500+ sales transactions to identify revenue drivers, product performance trends, regional sales patterns, and growth opportunities through an interactive Excel dashboard.
+## Current Focus
 
-### Email Marketing Campaign Analysis
-Evaluated campaign performance metrics to uncover engagement trends, conversion opportunities, and actionable recommendations for marketing optimization.
+* Building end-to-end analytics projects
+* Strengthening SQL and Python skills
+* Developing business intelligence solutions with Power BI
+* Expanding my analytics portfolio
 
-### Healthcare Appointment Performance Dashboard
-Analyzed appointment attendance, operational efficiency, demographic trends, and year-over-year performance using Excel, Power Query, and interactive dashboarding techniques.
+---
 
-### Customer Churn Analysis *(In Progress)*
-Using Python and Tableau to investigate churn drivers, customer retention patterns, revenue at risk, and strategic opportunities for reducing customer attrition.
+## Connect With Me
 
-## Currently Learning
+* LinkedIn: [LINK](www.linked.com/in/pantaleon-akujobi)
+* Email: [LINK](dabereakujobi@gmail.com)
 
-- Advanced SQL
-- Python for Analytics
-- Tableau
-- Data Engineering Fundamentals
-- Cloud Data Technologies
-
-## Contact
-
-- [GitHub](https://github.com/pantaleon-data)
-- [LinkedIn](https://www.linkedin.com/in/pantaleon-akujobi)
+📌 Open to Data Analyst and Business Intelligence Analyst opportunities.
