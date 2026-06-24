@@ -56,6 +56,5 @@
 ## Connect With Me
 
 * LinkedIn: [LINK](https://www.linkedin.com/in/pantaleon-akujobi/)
-* Email: [LINK](dabereakujobi@gmail.com)
 
 📌 Open to Data Analyst and Business Intelligence Analyst opportunities.
